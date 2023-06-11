@@ -6,17 +6,23 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "server": "json-server server.json -w -d 750 -p 3333"
   },
   "dependencies": {
     "@types/node": "20.2.6",
     "@types/react": "18.2.11",
     "@types/react-dom": "18.2.4",
+    "date-fns": "^2.30.0",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "sass": "^1.63.3",
     "typescript": "5.1.3"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3"
   }
 }
