@@ -42,3 +42,9 @@ Abra [http://localhost:3000](http://localhost:3000) no seu browser
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<br>
+## :information_source: Imagem do projeto:
+<br>
+<p align="center">
+  <img alt="podcastr" src=".github/podcastr.png" width="100%">
+</p>
